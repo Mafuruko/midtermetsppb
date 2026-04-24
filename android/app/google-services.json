@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "856180546422",
+    "project_id": "projectetsppb",
+    "storage_bucket": "projectetsppb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856180546422:android:40358791013c373ed0f857",
+        "android_client_info": {
+          "package_name": "com.naufal.tugasets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856180546422-tlotbe3hk4ao7fj95prsnrb075oha82g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naufal.tugasets",
+            "certificate_hash": "f14ff9261d9d30d5893715668eff77045e72f0d4"
+          }
+        },
+        {
+          "client_id": "856180546422-1o8612mc9gch8nkguhlmr35llh0jbt8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWbVZPkt9LQNv80Nmzbn3_N3rxRpqMqPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856180546422-1o8612mc9gch8nkguhlmr35llh0jbt8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856180546422-rekba4h283kja6m57ihr1flshsj19i82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.naufal.tugasets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
