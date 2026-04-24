@@ -165,34 +165,6 @@ Halaman-halaman utama pada aplikasi ini meliputi:
 - Attendance Page
 - Recap Page
 
-## Cara Menjalankan Proyek
-
-Langkah-langkah menjalankan aplikasi:
-
-1. Pastikan Flutter SDK sudah terinstal.
-2. Pastikan project Firebase sudah dibuat.
-3. Tempatkan file `google-services.json` pada folder:
-
-```text
-android/app/google-services.json
-```
-
-4. Jalankan perintah berikut:
-
-```bash
-flutter pub get
-flutter run
-```
-
-## Catatan Pengujian
-
-Pengujian dasar pada proyek telah dilakukan menggunakan:
-
-```bash
-flutter analyze
-flutter test
-```
-
 ## Kesimpulan
 
 Aplikasi absensi latihan paduan suara ini telah memenuhi komponen utama yang dipersyaratkan pada tugas Ujian Tengah Semester, yaitu penggunaan CRUD dengan database relasional, Firebase Authentication, penyimpanan data di Firebase, notifikasi, dan pemanfaatan sumber daya smartphone berupa kamera. Dengan fitur tersebut, aplikasi mampu membantu pengelolaan latihan secara lebih terstruktur, terdokumentasi, dan praktis.
