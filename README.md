@@ -1,7 +1,5 @@
 # Aplikasi Absensi Latihan Paduan Suara
 
-## Deskripsi Singkat
-
 Proyek ini merupakan aplikasi mobile berbasis Flutter yang dikembangkan untuk membantu proses pengelolaan absensi latihan paduan suara. Aplikasi ini mendukung proses autentikasi pengguna, pemilihan tim, pengelolaan anggota, pengelolaan sesi latihan, pencatatan kehadiran, rekapitulasi kehadiran, pengambilan foto selfie sebagai bukti kehadiran, serta pengingat jadwal latihan melalui notifikasi.
 
 Aplikasi dirancang untuk memenuhi kebutuhan tugas Ujian Tengah Semester mata kuliah Pemrograman Perangkat Bergerak dengan memanfaatkan Firebase dan sumber daya smartphone.
